@@ -1,4 +1,4 @@
-Jakarta RESTfull Web Service Basic Using Apache CXF and GraalVM native compilation 
+Basic Jakarta RESTfull Web Service Using Apache CXF and GraalVM native compilation 
 =================
 
 A RESTful customer resource is provided on URL http://localhost:9000/customers and uses XML as data representation format. Please make sure that **JAVA_HOME** points to GraalVM Community distribution (https://github.com/graalvm/graalvm-ce-builds/releases/).
